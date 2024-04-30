@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    padding-left: 120px;
+}
+
+.table1{
+  width: 850px;
+  background-color: white;
+}
+.table1 th{
+  color: white;
+  background-color: red;
+  text-align: justify;
+  height: 20px;
+  padding: 10px;
+}
+.table1  ,td ,tr{
+  border-collapse: collapse;
+  padding: 10px;
+  text-align: left;
+}
+tr:nth-child(odd){
+  background-color: rgba(243, 243, 243, 0.959);
+}
+.table2{
+  width: 850px;
+  border-collapse: collapse;
+  background-color: white;
+}
+.table2 th{
+  color: white;
+  background-color: forestgreen;
+  text-align: justify;
+  height: 20px;
+  padding: 10px;
+}
+.table3{
+  width: 850px;
+  border-collapse: collapse;
+  background-color: white;
+}
+.table3 th{
+  color: white;
+  background-color: dodgerblue;
+  text-align: justify;
+  height: 20px;
+  padding: 10px;
+}

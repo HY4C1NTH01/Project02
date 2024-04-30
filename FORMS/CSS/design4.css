@@ -1,0 +1,57 @@
+body{
+    background-color: blueviolet;
+    margin: 5px;
+    margin-left: 120px;
+}
+table{
+    width: 28%;
+    color: silver;
+    height: 550px;
+    float: left;
+    border-right: 5px solid blueviolet;
+    text-align: center;
+    margin: 0%;
+}
+th{
+    color: white;
+    height: 50px;
+}
+.simp{
+    background-color: gold;
+    border: 4px goldenrod solid;
+}
+.stnd{
+    background-color: springgreen;
+    border: 4px solid lightgreen;
+}
+.ultim{
+    background-color: darkslateblue;
+    border: 4px  solid slateblue;
+}
+td {
+    background-color: navy;
+    border-bottom: 1px navy solid;
+    border-collapse: collapse;
+
+}
+.cart{
+    height:100px;
+    color:rgb(240, 240, 240);
+    border: 0;
+}
+.price{
+    color: white;
+    font-size: 70px;
+    height: 150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    color: silver;
+    font-size: 20px;
+}
+sub{
+    font-size: 20px;
+}
+sup{
+    font-size: 20px;
+}

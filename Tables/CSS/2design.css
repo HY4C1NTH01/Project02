@@ -1,0 +1,66 @@
+body{
+
+}
+table{
+    border: 1px solid silver;
+    border-collapse: collapse;
+    width: 800px;
+    text-align: center;
+    margin-left: 200px;
+}
+tr,td{
+    border-bottom: 1px silver solid;
+    height: 30px;
+}
+th{
+    border-left: 1px silver solid;
+    height: 50px;
+}
+.th1{
+    border-left: 1px red solid;
+    height: 50px;
+    width: 130px;
+    background-color: red;
+    color: white;
+}
+.th2{
+    border-left: 1px dodgerblue solid;
+    height: 50px;
+    width: 130px;
+    background-color: dodgerblue;
+    color: white;
+}
+.th3{
+    border-left: 1px forestgreen solid;
+    height: 50px;
+    width: 130px;
+    background-color: forestgreen;
+    color: white;
+}
+.btt1{
+    width: 100px;
+    height: 35px;
+    background-color: red;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+.btt2{
+    width: 100px;
+    height: 35px;
+    background-color: dodgerblue;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+.btt3{
+    width: 100px;
+    height: 35px;
+    background-color: forestgreen;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
+.tr1{
+    height: 50px;
+}

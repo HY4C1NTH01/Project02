@@ -1,0 +1,108 @@
+body{
+    padding-left: 200px;
+    padding-right: 100px;
+    background-image: url(../IMAGES/background2.jpg);
+}
+form{
+  color: white;  
+  background-color:rgba(222, 233, 248, 0.265) ;
+  height: 600px;
+  width: 600px;
+  padding-top: 40px;
+  padding-left: 55px;
+}
+h1{
+    text-align: center;
+    margin-right: 70px;
+}
+input[type=text]{
+    height: 50px;
+    width: 88%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-left: 10px;
+    border: 0;
+}
+placeholder{
+    color: silver;
+}
+input[type=password]{
+    height: 50px;
+    width: 88%;
+    margin-bottom: 20px;
+    border: 0;
+    padding-left: 10px;
+}
+a{
+    color: silver;
+}
+.button{
+    width: 90%;
+    background-color: chartreuse;
+    color: white;
+    border: 0;
+    height: 40px;
+    border-radius: 3px;
+}
+.div{
+    height: 1px;
+    width: 120px;
+    background-color: black;
+    margin-top: 10px;
+    margin-right:60px;
+    float: left;
+}
+.divv{
+    height: 70px;
+    width: 90%;
+    background-color: black;
+    text-align: center;
+}
+.div1{
+    height: 1px;
+    width: 25%;
+    background-color: black;
+    margin-right: 60px;
+    float: inline-end;
+}
+.btt1{
+    height: 40px;
+    width: 20%;
+    background-color: rgb(55, 55, 214);
+    color: white;
+    border: 0;
+    border-radius: 3px;
+    float: left;
+    margin-right: 10px;
+    padding-top: 15px;
+    padding-left: 50px;
+}
+.btt2{
+    height: 40px;
+    width: 20%;
+    background-color: dodgerblue;
+    color: white;
+    border: 0;
+    border-radius: 3px;
+    float: left;
+    margin-right: 10px;
+    padding-top: 15px;
+    padding-left: 50px;
+}
+.btt3{
+    height: 40px;
+    width: 20%;
+    background-color: red;
+    color: white;
+    border: 0;
+    border-radius: 3px;
+    float: left;
+    padding-top: 15px;
+    padding-left: 50px;
+}
+input[type=checkbox]{
+    width: 10px;
+}
+p{
+    text-align: center;
+}

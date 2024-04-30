@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(175, 250, 175);
+    padding-left: 300px;
+    padding-top: 0px;
+}
+form{
+    background-color: white;
+    border-radius: 5px;
+    width: 450px;
+    height: 500px;
+    padding-top: 4px;
+    border: 2px solid whitesmoke;
+}
+h2{
+    color: darkgreen;
+    margin-left: 140px;
+    margin-bottom: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    margin-left: 100px;
+}
+h5{
+    color: darkgreen;
+    margin-left: 150px;
+}
+input{
+    color: silver;
+    height: 30px;
+    width: 350px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+label{
+    margin-left: 60px;
+}
+.message{
+    height: 80px;
+}
+.radio{
+    width:130px;
+    margin-left: 50px;
+    height: 10px;
+
+}
+button{
+    color: whitesmoke;
+    background-color: darkgreen;
+    border: 0;
+    width: 360px;
+    height: 35px;
+    border-radius: 15px;
+    margin-left: 50px;
+}

@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+}
+.line{
+    background-color: dodgerblue;
+    height: 2px;
+    width: 230px;
+    padding-top: 0;
+    margin-left: 510px;
+    margin-top: 0;
+    padding-left: 0;
+    margin-bottom: 30px;
+}
+form{
+    background-color: navy;
+    width: 650px;
+    height: 473.65px;
+    color: white;
+    text-align: left;
+    padding-top: 30px;
+    margin-top: 50px;
+    padding-left: 30px;
+    float: left;
+}
+input{
+    font-size: 25px;
+    background-color: navy;
+    border: 0;
+    border-bottom: 2px solid silver;
+    margin-bottom: 30px;
+    width: 645px;
+    padding-bottom: 10px;
+}
+button{
+    background-color: black;
+    border: 0;
+    color: white;
+    border-radius: 5px;
+    height: 50px;
+    width: 100px;
+}
+.footer{
+    background-color: navy;
+    color: white;
+    text-align: left;
+    width: 100%;
+}
+footer{
+    width: 200px;
+}
+.doublefooter{
+    background-color: navy;
+}
+
